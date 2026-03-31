@@ -5,7 +5,8 @@ A convolutional neural network (CNN) model implemented in TensorFlow/Keras for r
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to detect whether a person in an image is wearing a face mask or not. The model is trained on a custom dataset of masked and unmasked faces to achieve high accuracy in classification.
 
 ## Dataset
-The model was trained on the [Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset) from Kaggle, which includes images categorized into 'with_mask' and 'without_mask'.
+The model was trained on the [Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset) from Kaggle, 
+which includes images categorized into 'with_mask' and 'without_mask'.
 
 ## Model Architecture
 The CNN architecture consists of:
